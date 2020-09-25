@@ -1,0 +1,103 @@
+
+.clearfix{
+	overflow: auto;
+}
+.menu_bar{
+	width: 100%;
+	height: 20%;
+	background-image: linear-gradient(to right,#ffa64d,#ffb366,#ffbf80,#ffbf80,#ffb366,#ffa64d,#ff9933);
+
+
+}
+.logo{
+	padding: 5px;
+	float: left;
+}
+.links{
+	float: right;
+}
+.links ul li{
+	display: inline-block;
+	padding: 5px;
+}
+.links ul li a{
+	text-decoration: none;
+	color: maroon;
+}
+.col1{
+	width: 15%;
+	float: left;
+	background-color: #aaa;
+	height: 1500px;
+}
+.col2{
+	width: 70%;
+	background-color: white;
+
+	float: left;
+}
+.col3{
+	width: 15%;
+	float: right;
+	background-color: #aaa;
+	height: 1500px;
+	
+
+}
+.image1{
+	float: left;
+	
+}
+.image2{
+	float: right;
+	
+}
+.topic p{
+	font-size: 36px;
+	color: maroon;
+	padding: 5px;
+
+}
+
+.text1{
+	position: absolute;
+	background:white;
+	background: rgba(1, 1, 1, 0.3);
+	top: 45%;
+	left: 40%;
+	color: #ddd;
+	padding: 10px;
+}
+.text2{
+	position: absolute;
+	background: white;
+	background: rgba(0,0,0,0.1);
+	color: #111109;
+	width: 13%;
+	padding: 10px;
+	top: 60%;
+}
+p{
+	padding: 10px;
+}
+.photo{
+	width: 25%;
+	float: left;
+}
+.photo a{
+	text-decoration: none;
+	color: maroon;
+	font-size: 20px;
+	text-align: right;
+
+}
+.photo a p{
+	color: black;
+	font-size: 12px;
+	float: left;
+}
+.photo a h4{
+	text-decoration: line-through;
+	color: maroon;
+	float: right;
+}
